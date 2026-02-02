@@ -1,0 +1,19 @@
+Intern Name: Jami Gnaneswari
+Internship: CODTECH Python Internship
+Task Number: Task 3
+Task Title: AI Chatbot with NLP
+
+Objective:
+To build an AI chatbot capable of answering user queries using basic NLP techniques.
+
+Description:
+This task focuses on creating a rule-based chatbot that processes user input,
+applies NLP preprocessing, and responds based on keyword matching.
+
+Technologies Used:
+Python
+Natural Language Processing (NLP)
+Visual Studio Code
+
+Outcome:
+A working AI chatbot that responds to general user questions.
