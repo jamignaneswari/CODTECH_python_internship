@@ -1,0 +1,5 @@
+Python Internship
+Task 2: Automated Report Generation
+Intern Name: Jami Gnaneswari
+Organization: CODTECH
+Status: Completed Successfully
